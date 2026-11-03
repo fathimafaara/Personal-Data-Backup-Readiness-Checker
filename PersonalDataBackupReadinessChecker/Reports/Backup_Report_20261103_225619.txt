@@ -1,0 +1,37 @@
+---------------------------------------------
+PERSONAL DATA BACKUP READINESS REPORT
+---------------------------------------------
+
+Generated on: 2026-11-03 22:56:19.069339
+
+FOLDER INFORMATION
+Selected folder: C:\Users\HP\PycharmProjects\PersonalDataBackupReadinessChecker\Test_Data
+
+SCAN SUMMARY
+Total files: 5
+Total folders: 3
+Total storage: 104.94 MB
+
+STORAGE BY CATEGORY
+other: 104.9 MB
+Documents: 37.32 KB
+
+DUPLICATE FILES
+No duplicate files found
+
+LARGE FILES
+large_Test_File.bin - 104.9 MB
+
+EMPTY FOLDERS
+C:\Users\HP\PycharmProjects\PersonalDataBackupReadinessChecker\Test_Data\Empty_Folder
+C:\Users\HP\PycharmProjects\PersonalDataBackupReadinessChecker\Test_Data\Images
+
+FILE ORGANIZATION
+Organization percentage: 80.0%
+
+BACKUP READINESS
+Readiness score: 60/100
+
+---------------------------------------------
+END OF REPORT
+---------------------------------------------
