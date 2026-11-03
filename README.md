@@ -68,8 +68,4 @@ Author
 
 Fathima Faara
 
-Aspiring Cloud Engineer
-
-Bachelor of Information and Communication Technology Honours (BICT Hons)
-
-University of Vavuniya, Sri Lanka
+Aspiring Cloud Engineer | Cloud Computing & Networking | Python | Software Development
